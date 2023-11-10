@@ -46,28 +46,26 @@
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-
-----
   
 ## 🕵️ Techno à explorer et à améliorer
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-  
-## 🎯 Projects & GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLhg&show_icons=true&theme=radical)
+----
+
+## 🎯 Projects & GitHub
 
 <details>
   <summary><b>📊 GitHub Statistics</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&count_private=true&hide_border=true" />
 </details>
 
 <details>
-  <summary><b>🏆 GitHub Trophées</b></summary>
+  <summary><b>🏆 GitHub Trophies</b></summary>
   <br />
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=JohanLhg&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
@@ -75,7 +73,7 @@
 </details>
 
 <details>
-  <summary><b>📈 GitHub Historique</b></summary>
+  <summary><b>📈 GitHub History</b></summary>
   <br />
   <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanLhg&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
@@ -83,7 +81,4 @@
 </details>
 
 <div align="center">
-  
-### Voir plus ❤️ aller dans mes repositories!
-
 </div>

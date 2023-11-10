@@ -1,8 +1,7 @@
 <h3 align="center">Bonjour à tous!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Je suis un jeune développeur 👨🏻‍💻 Français, qui est passionné par l'informatique 🌐</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ronan-henry" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://ronanhenry2.wixsite.com/portfolio" target="_blank"><img height="25" src = "https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/j-lahougue" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 ----
 
@@ -67,16 +66,16 @@
 <details>
   <summary><b>📊 GitHub Statistiques</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronanhenry-web&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanhenry-web&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLhg&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
 </details>
 
 <details>
   <summary><b>🏆 GitHub Trophées</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ronanhenry-web&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JohanLhg&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
   </p>
 </details>
 
@@ -84,7 +83,7 @@
   <summary><b>📈 GitHub Historique</b></summary>
   <br />
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ronanhenry-web&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohanLhg&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
   </p>
 </details>
 
